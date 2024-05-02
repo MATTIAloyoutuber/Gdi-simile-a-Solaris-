@@ -1,0 +1,7 @@
+D:\c#\Solaris 2.0\Solaris 2.0\bin\Debug\Solaris 2.0.exe.config
+D:\c#\Solaris 2.0\Solaris 2.0\bin\Debug\Solaris 2.0.exe
+D:\c#\Solaris 2.0\Solaris 2.0\bin\Debug\Solaris 2.0.pdb
+D:\c#\Solaris 2.0\Solaris 2.0\obj\Debug\Solaris 2.0.csproj.AssemblyReference.cache
+D:\c#\Solaris 2.0\Solaris 2.0\obj\Debug\Solaris 2.0.csproj.CoreCompileInputs.cache
+D:\c#\Solaris 2.0\Solaris 2.0\obj\Debug\Solaris 2.0.exe
+D:\c#\Solaris 2.0\Solaris 2.0\obj\Debug\Solaris 2.0.pdb
